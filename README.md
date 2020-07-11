@@ -1,7 +1,7 @@
 ### Laete Meireles 👋
 
 
-Here are some ideas to get you started:
+My name is Laete and...:
 
 - 🔭 I’m currently working on **GameCube Backup Manager**: https://github.com/laetemn/GameCubeBackupManager
 - 🌱 I’m currently learning **C# language**
